@@ -1,0 +1,7 @@
+env
+train.csv
+test.csv
+gender_submission.csv
+.*
+!.gitignore
+!.git
